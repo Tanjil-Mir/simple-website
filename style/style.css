@@ -4,3 +4,9 @@ div {
   text-align: center;
   margin: 20px;
 }
+.blog {
+  text-align: justify;
+  background-color: steelblue;
+  color: blanchedalmond;
+  font-size: larger;
+}
